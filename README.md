@@ -4,7 +4,7 @@
 Repo: https://github.com/ucsb-cs156-s26/jpa02-Mr465truck
 
 
-Deployed at: https://jpa02-mr465truck.dokku-06.cs.ucsb.edu/info
+Deployed at: https://jpa02-mr465truck.dokku-06.cs.ucsb.edu
 
 
 # About this repo
