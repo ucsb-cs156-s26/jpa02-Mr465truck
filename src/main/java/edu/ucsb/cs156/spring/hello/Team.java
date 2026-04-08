@@ -19,7 +19,7 @@ public class Team {
     }
 
     /**
-     * Constructor a team with a given name.
+     * Construct a team with a given name.
      * @param name name of the team
      */
     public Team(String name) {
