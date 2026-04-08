@@ -99,6 +99,8 @@ public class TeamTest {
     // hash representation
     // I ran the program and got -136369154, which I put in the test, but testing that the program outputs
     // what it outputs doesn't seem correct, so ask how to compute the hash?
+    // update: I finished reading the assignment and mine is a little different, but he basically does what I do
+    // ask at section if I'm good?
     public void hashCode_returns_correct_hash() {
         assertEquals(-136369154, team.hashCode());
     }
